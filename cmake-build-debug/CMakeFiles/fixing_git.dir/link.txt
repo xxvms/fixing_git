@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fixing_git.dir/main.cpp.o  -o fixing_git 
